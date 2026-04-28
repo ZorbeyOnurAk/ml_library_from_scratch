@@ -7,6 +7,7 @@ This repository contains small machine learning utilities I am implementing from
 - Min-max scaling
 - Z-score standardization
 - Train/test split
+- Dataset column statistics
 
 ## Technologies
 
